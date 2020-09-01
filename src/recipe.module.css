@@ -1,0 +1,16 @@
+.recipe{
+  width: 30rem;
+  margin: 3rem;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  padding: 2rem;
+  position: relative;
+  border-radius: 0.5rem;
+  box-shadow: 2rem 3rem 5rem #aaa;
+}
+
+.image{
+  border-radius: 0.5rem;
+  object-fit: cover;
+}
